@@ -14,3 +14,8 @@ data is obtained from the Our World in Data and was downloaded on 3/29/2023 at 1
 # Data Processing Section
 In the data processing step, the raw data was read into a Pandas DataFrame in Google Colab. The data was then cleaned by removing unnecessary columns, checking for missing values and filling them appropriately. The country names were standardized to ensure consistency across the dataset. The data was then exported to a clean csv file for further analysis.
 These steps were performed using Python in a Google Colab notebook. The resulting clean CSV file was used in subsequent analysis of greenhouse gas emissions trends over time.
+
+# Author 
+This file was created, documented, and computed by Keerthana Kalla
+# License 
+All materials in this repository are licensed under the Creative Commons Attribution 4.0 International License. This means that others are free to use, share, and adapt the materials as long as proper attribution is given
