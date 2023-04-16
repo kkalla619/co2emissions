@@ -8,6 +8,6 @@ Overall, this project provides insights into the changing patterns of CO2 emissi
 
 # Requirements
 Software used to run the code for this project was Google Colab
-
+# Data 
 Data: https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-data.csv
 data is obtained from the Our World in Data and was downloaded on 3/29/2023 at 1:59pm 
