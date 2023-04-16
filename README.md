@@ -11,3 +11,6 @@ Software used to run the code for this project was Google Colab
 # Data 
 Data: https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-data.csv
 data is obtained from the Our World in Data and was downloaded on 3/29/2023 at 1:59pm 
+# Data Processing Section
+In the data processing step, the raw data was read into a Pandas DataFrame in Google Colab. The data was then cleaned by removing unnecessary columns, checking for missing values and filling them appropriately. The country names were standardized to ensure consistency across the dataset. The data was then exported to a clean csv file for further analysis.
+These steps were performed using Python in a Google Colab notebook. The resulting clean CSV file was used in subsequent analysis of greenhouse gas emissions trends over time.
