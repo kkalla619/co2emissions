@@ -6,5 +6,8 @@ The results of the analysis indicate that while the total CO2 emissions have inc
 Overall, this project provides insights into the changing patterns of CO2 emissions among the top 10 emitters over time, which can help inform discussions and policies related to climate change mitigation.
 
 
+# Requirements
+Software used to run the code for this project was Google Colab
+
 Data: https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-data.csv
 data is obtained from the Our World in Data and was downloaded on 3/29/2023 at 1:59pm 
